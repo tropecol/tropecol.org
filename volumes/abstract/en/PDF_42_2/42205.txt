@@ -1,0 +1,12 @@
+This paper deals with biomass and net primary productivity of three 7-year old
+Casuarina equisetifolia (Forst) stands raised on sodic wasteland. Two regression models (dbh
+based and d2H based models) were used to estimate tree biomass. Biomass ranged from 137 to
+199 t ha-1 in case of first model; and 135 to 205 t ha-1, in case of second model. There was an
+insignificant difference in average stand biomass (170.5-172 t ha-1) by using two different models.
+Coefficient of variation showed that component biomass was more variable (CV = 8.5-23%)
+in case of d2H based model than that of dbh based model (CV = 5-21%). It, therefore, appears
+that use of dbh as an independent variable instead of d2H is an easier and precise method for
+biomass estimation. Litterfall in three stands ranged from 5.2 to 7.2 t ha-1 yr-1 (average 6.1 t
+ha-1 yr-1) of which leaf litter accounted for 79%. Net primary productivity ranged from 17.9-
+19.3 t ha-1 yr-1. The bole wood shared maximum productivity (35%), followed by leaf (27.4%)
+and root (15.5%).

@@ -1,0 +1,14 @@
+The complexity and inaccessibility of Himalayan terrain inhibits intensive field
+surveys where remote sensing as a tool can help in exploring such ecologically important and
+inaccessible areas. The IRS-1C LISS-III data was used to study the forests of Bhagirathi valley
+in Uttaranchal. The maps were derived using hybrid approach (a combination of supervised
+and unsupervised classification). A total of ten classes were identified. A knowledge-based classification
+was used to delineate different conifers, low valley grasslands and scrub from the alpine
+regions. This approach uses integration of species distribution pattern and digital elevation
+data in GIS domain. Masking and recoding were found useful in removing the noise
+caused due to shadows and clouds. Finally a total of eight forests and four non-forest classes
+were segregated and mapped. Of the eight vegetation types broadleaved-conifer mixed dominated
+the area (24.6%) followed by broadleaved forest (10.5%) whereas the non-forest classes
+together accounted for 27.6% of the area. Distribution of vegetation in different altitudinal
+zones, aspects and slopes was also analyzed. It was found that in the lowest and highest altitudinal
+zones, the forest cover was less compared to middle elevation zone.

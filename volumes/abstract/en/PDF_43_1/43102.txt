@@ -1,0 +1,11 @@
+A large-scale project initiated in the early 1990s, the TREES project, is dedicated
+to the development of techniques for global tropical forest cover assessment and for monitoring
+deforestation using satellite imagery. The project has developed a reliable method for
+global forest change assessment in the humid tropics and has applied this throughout the
+world. Twenty-seven local partners from tropical countries contributed to TREES. The approach
+is based on a statistical sampling of observation units with a higher sampling rate for
+fast changing areas. A pre-stratification was performed using two parameters: “forest cover
+area” (from the 1 km resolution maps produced in the first phase of the project) and “deforestation
+hot-spot layer” (areas where changes are expected to be higher based on individual expertise).
+Forest cover change during the period 1992-1997 was estimated from the one hundred
+sample sites using fine spatial resolution satellite imagery.

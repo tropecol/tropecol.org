@@ -1,0 +1,15 @@
+Wetlands of India, estimated to be 58.2 million hectares, are important repositories
+of aquatic biodiversity. The diverse ecoclimatic regimes extant in the country resulted in a
+variety of wetland systems ranging from high altitude cold desert wetlands to hot and humid
+wetlands in coastal zones with its diverse flora and fauna. The review deals with the status
+and distribution of wetlands and causes and consequences of wetland losses. It also provides an
+overview of the use of Remote Sensing and Geographic Information System (GIS) tools in flood
+zonation mapping, in monitoring irrigation and cropping patterns, water quality analysis and
+modelling, change analyses and in mapping of surface water bodies and wetlands. The review
+provides a methodology and an action plan for evolving a nationwide network of conservation
+preserves of wetlands. The major elements of this methodology involve use of IRS LISS III sensors
+for delineating turbidity, aquatic vegetation and major geomorphological classes of wetlands.
+An extensive fieldwork to generate attribute information on biodiversity and socioeconomic
+themes is a significant component of the suggested methodology. GIS tools to integrate
+habitat information with the field information are envisaged to be the final component in evolving
+a conservation network of wetlands for the entire country.

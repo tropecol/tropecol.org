@@ -1,0 +1,23 @@
+The rate of carbon accumulation by terrestrial plant communities in a processlevel,
+mechanistic modeling is the difference of the rate of gross photosynthesis by a canopy
+(Ag) and autotrophic respiration (R) of the stand. Observations for different biomes often show
+that R to be a large and variable fraction of Ag, ca. 35% to 75%, although other studies suggest
+the ratio of R and Ag to be less variable. Here, R has been calculated according to the two compartment
+model as being the sum of maintenance and growth components. The maintenance
+respiration of foliage and living fine roots for different biomes has been determined objectively
+from observed nitrogen content of these organs. The sapwood maintenance respiration is based
+on pipe theory, and checked against an independently derived equation considering sapwood
+biomass and its maintenance coefficient. The growth respiration has been calculated from the
+difference of Ag and maintenance respiration. The Ag is obtained as the product of biome-specific
+radiation use efficiency for gross photosynthesis under unstressed conditions and intercepted
+photosynthetically active radiation, and adjusted for stress. Calculations have been
+done using satellite and ground observations for 36 consecutive months (1987-1989) over large
+contiguous areas (ca. 105 km2) of boreal forests, cropland, temperate deciduous forest, temperate
+grassland, tropical deciduous forest, tropical evergreen forest, tropical savanna, and tundra.
+The ratio of annual respiration and gross photosynthesis, (R/Ag), is found to be 0.5-0.6 for
+temperate and cold adopted biome areas, but somewhat higher for tropical biome areas (0.6-
+0.7). Interannual variation of the fluxes is found to be generally less than 15%. Calculated
+fluxes are compared with observations and several previous estimates. Results of sensitivity
+analysis are presented for uncertainties in parameterization and input data. It is found that
+uncertainty in determining maintenance respiration for tropical biomes is such that R/Ag for
+these biomes could be similar to that for temperate biomes.

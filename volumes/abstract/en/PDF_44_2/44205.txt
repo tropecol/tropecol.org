@@ -1,0 +1,13 @@
+According to niche theory, differential use of shared resources facilitates the coexistence
+of species in a community. Niche relationships have been studied for a wide variety of
+taxa, but such understanding from tropical ungulate assemblies in south-east Asia is lacking.
+We investigated habitat relationships in an assembly of four wild ungulates viz., chital (Axis
+axis), sambar (Cervus unicolor), nilgai (Boselaphus tragocamelus) and chinkara (Gazella bennetti)
+from western India, using Discriminant Analysis. Ecological similarity between the four
+species was analysed in terms of 20 variables and the two cervids were found to use similar
+habitat features and the two bovids formed an analogous group. These two groups or “guilds”
+differentiated from each other in terms of vegetation structure as the cervids selected for Anogeissus-
+Grewia forest community while the bovids occupied Acacia-Butea scrub community.
+Habitat-use overlap between the two bovids appeared unstable in the light of theoretical aspects
+of population dynamics of interacting species. However, there is scope to achieve stable
+coexistence by differentiating over alternate resource axes like food.

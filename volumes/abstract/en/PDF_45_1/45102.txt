@@ -1,0 +1,21 @@
+Terrestrial gross primary production (GPP) has commonly been estimated as
+about 120 Gt C year-1, based mainly on estimates from the International Biological Program
+(IBP, 1964-74, with 60 Gt C year-1 for net primary production, NPP) and an assumption that
+autotrophic respiration (RA) is about the same as NPP. This 2 x NPP assumption for GPP has
+been reinforced by some more recent studies that scaled up from short-term, temperate-zone
+site measurements using satellite data, with values of photosynthetic efficiency assumed to be
+constant. Analysis of the full IBP data-base suggests higher GPP and RA site values, especially
+in the tropics, and higher values for terrestrial totals and the global RA/GPP ratio. The CO2
+source-sink behavior of terrestrial vegetation is determined largely by this ratio, and a larger
+ratio implies possibly larger biospheric CO2 sources under global warming but also possibly
+greater net CO2 uptake by early-successional vegetation. On the other hand, the IBP data
+have been discredited by both improved methods for estimating respiration in the field and by
+better understanding of the nature and determinants of maintenance versus growth respiration.
+Examination of this new respiration paradigm, plus two studies by other authors, suggests
+that terrestrial GPP probably is higher than 120 Gt C year-1, though not as high as the
+IBP data imply. The IBP data represent the largest, most geographically representative database
+available for stand metabolism, so it is perhaps useful to ask just how bad these data are,
+where and why, and whether they can be “rehabilitated” in any useful way. The largest uncertainty
+appears to be in the tropics, where landscape degradation is often severe and rehabilitation
+inherently difficult. Further study should focus on such critical needs, including better
+tropical metabolic data and methods for rehabilitating devastated tropical landscapes.

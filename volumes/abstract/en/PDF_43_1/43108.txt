@@ -1,0 +1,11 @@
+Applications of satellite remote sensing in eco-hydrology are reviewed. Satellite data
+have been used to improve rainfall mapping and to monitor relationships between rainfall and
+vegetation responses. Spatial patterns of actual evapotranspiration by vegetation associations can
+now be calculated using satellite data with a minimum of ground meteorologic data. Vegetation
+and inundation dynamics and aspects of water quality of wetlands have been monitored in many
+parts of the tropics and elsewhere by using optical multi spectral, thermal and radar images, providing
+information for the management of wetlands. Natural vegetation patterns, as observed on
+images, can be brought in relation to groundwater occurrences and groundwater flow systems. Inventories
+and monitoring of vegetation in watersheds is current practice and multi spectral data is
+suited to determine the cover factor in soil erosion studies. New generation of satellites have sensors
+to improve accuracies and to develop new applications.

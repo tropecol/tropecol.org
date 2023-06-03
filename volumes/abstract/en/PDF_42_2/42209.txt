@@ -1,0 +1,9 @@
+Zooplankton is an economically and ecologically important group of aquatic
+animals and their ecological processes influence fishery, oceanography and climate. The present
+study attempts to analyse community structure and diversity of zooplankton in Andaman
+sea using various richness, diversity and evenness indices and similarity and resemblance
+functions. The results showed species richness indices (Margalef and Menhinick) hold good for
+zooplankton data. The evenness indices, chord distance and geodesic distance provided realistic
+values for analyzing zooplankton community structure hold good for a zooplankton data.
+Principal Component analysis being a multivariate eigen analysis provided a better understanding
+of community in zooplankton across sites and principal components.

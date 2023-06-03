@@ -1,0 +1,19 @@
+This review includes data on classes of seed dormancy, or of nondormancy, for
+2040 species of trees in climax tropical forests: evergreen, 1098; semievergreen, 515; deciduous,
+133; savanna, 223; and montane, 71. In evergreen, semievergreen, deciduous, savanna, and
+montane forests, 57.3, 52.0, 34.8, 37.8, and 33.8% of the species, respectively, had nondormant
+seeds. Overall, there was an increase in dormancy with decreases in temperature and
+precipitation across the gradient of forest types from evergreen to montane forests, but
+deciduous, savanna, and montane forests had about the same proportion of species with
+dormant seeds. Depending on the family, there were increases, decreases, or no change in
+proportion of species with dormant seeds across the gradient. Considering only the species
+with dormant seeds, physiological dormancy decreased from evergreen to deciduous forests but
+increased slightly in savanna and montane forests. On the other hand, physical dormancy
+increased from evergreen to savanna forests but decreased in the montane. Morphological
+dormancy decreased from evergreen to savanna forests but increased in montane forests.
+Morphophysiological dormancy decreased from evergreen to deciduous forests but increased in
+savanna and montane forests. Combinational dormancy (physical + physiological), which
+never exceeded 2%, was found only in evergreen and montane forests. Much research remains
+to be done to understand the evolutionary origins and biogeography of seed dormancy in
+tropical trees, and it is suggested that working on members of plant families that occur across
+the gradient of forest types may be a rewarding approach.

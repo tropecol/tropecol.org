@@ -1,0 +1,12 @@
+Environment is constantly changing as a function of climate and more recently
+due to human activities. Timely and accurate monitoring of these changes is a difficult task for
+regional planning and management. Up-to-date information on distribution and rate of
+changes of any ecosystem are required for a wide variety of applications viz., biome status, environmental,
+climatic etc. Aerospace technology has been found to be a vital tool for assessment
+and monitoring of these natural resources. The present study focuses on the potential of IRS
+1C WiFS data set for the regional level mapping. The temporal resolution along with the recommended
+spatial and spectral resolution configures for the assessment of the phenological
+growth of the vegetation in the terrestrial ecosystems. The utilization of the climatic data along
+with the biogeographic map is proposed to delineate the biomes in the western Indian subcontinent.
+The product offers the basic input for the eco-physiological processes for studying the
+land surface interactions and conservation strategies of the arid regions.

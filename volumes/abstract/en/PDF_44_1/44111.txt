@@ -1,0 +1,16 @@
+An overview of the possibilities offered when applying Geographical Information
+Systems (GIS) and Remote Sensing (RS) to environmental monitoring is given, based on examples
+taken from an ongoing project entitled ‘Assessment of mangrove degradation and resilience
+in the Indian subcontinent: the cases of Godavari estuary and southwest Sri Lanka’. The
+capabilities of GIS (i) to integrate and manage huge amounts of multi-source data, (ii) to perform
+spatial analysis and, (iii) to produce synthetic results that can prove useful in decisionmaking,
+are highlighted. RS, as a special type of spatial information used in GIS, (iv) allows
+land cover mapping and the inventory of natural resources, (v) provides quantitative estimations
+of biophysical properties of land surface features and, (vi) is useful in tracking how landscape
+changes over time. The examples show that synthetic information and results, such as
+land cover maps at different dates, aerial estimates of mangrove extension or regression, and
+surfaces of aquaculture converted from mangroves, paddies or bare lands, can be obtained by
+analyzing data from different sources in the GIS. Decision-making can make use of such results,
+but should further benefit from the development of spatial modelling in GIS for the simulation
+of scenarios. Monitoring capabilities are also improving due to the increase in spatial
+and spectral resolution of the recently launched remote sensors.

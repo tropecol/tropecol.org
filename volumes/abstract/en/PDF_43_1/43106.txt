@@ -1,0 +1,8 @@
+Soil survey constitutes a valuable resource inventory linked with the survival of
+life on the earth. The technological advancements in the field of remote sensing and Geographical
+Information System have been a boon for such surveys. Present paper describes the
+role of remote sensing and Geographical Information System (GIS) technologies for mapping
+and characterizing soils at various scales. The spectral behaviour of soil and its components,
+which is fundamental to deriving information from remote sensing data, is also discussed with
+illustrations. Furthermore, the scope of present day remote sensing data for varying levels information
+generation is also reviewed.

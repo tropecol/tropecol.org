@@ -1,0 +1,13 @@
+The stomatal conductance of leaves for water vapor as a function of the intercellular
+CO2 concentration and irradiance intensity and soil moisture was investigated for three
+species of trees and shrubs at their natural habitats in South America: a seasonal tropical rainforest,
+a tropical dry forest, and a savanna of the Campo Cerrado type. The maximum stomatal
+conductance of the species from humid environments (rain forest and Campo Cerrado) was
+higher than that of the species from the dry forest. For all three species the stomata closed
+with increasing intercellular CO2 concentration. At high levels of intercellular CO2 the stomata
+did not close completely if the soil was water saturated and the irradiance was high. At ambient
+CO2 concentrations the stomata were not fully open even under favorable light and soil water
+conditions. Lowering the external CO2 concentration to values of the last glacial maximum
+increased the stomatal conductance beyond that for present-day values. The sensitivity of
+stomatal closure to an intercellular CO2 increase was fairly similar for the two species from the
+rain forest and the dry forest, but was higher for the species from the Campo Cerrado.

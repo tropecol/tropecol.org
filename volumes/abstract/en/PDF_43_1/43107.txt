@@ -1,0 +1,11 @@
+Over exploitation of natural resources for meeting the growing demand for food,
+fuel and fodder of ever increasing population, has led to soil degradation of varying degrees resulting
+thereby in deterioration of erstwhile healthy ecosystems. Information on the nature, extent,
+magnitude and the temporal behaviour of soil degradation is a pre-requisite for taking up
+any ameliorative/preventive measures. Space-borne multispectral data by virtue of providing
+synoptic view of a fairly large area at regular intervals, offer immense potential for generating
+above mentioned information on degraded soils in a timely and cost-effective manner. An attempt
+has been made in this article to provide an overview of the utility of space-borne multispectral
+data from both indigenous, namely Indian Remote Sensing Satellite (IRS-1A/1B/-1C/-
+1D and/-P3) as well as foreign Earth observation missions like Landsat, SPOT, etc. for assessment
+and monitoring of soil degradation; identify gap areas and to project the future scenario.

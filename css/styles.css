@@ -1,0 +1,18 @@
+.title {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #747AC6;}
+.links {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #FFFFFF; text-decoration: none;}
+.links:hover { color: #FFFFFF; text-decoration: underline; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold;}
+.subtitle { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #CC99CC;}
+.bullet {  list-style-image:  url(/images/bullet.gif);}
+.date {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000;}
+.text {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px;}
+a { color:#039; text-decoration: underline;}
+a:hover {  color: #CC99CC; text-decoration: none;}
+.footer { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: normal; color: #000000; font-weight: normal; text-decoration: none;}
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.addclicklater { }

@@ -1,0 +1,5 @@
+This paper reviews continental/global land cover mapping projects and their
+methodologies with the focus on the Land Cover Working Group (LCWG) / Asian Association on
+Remote Sensing (AARS) project which completed its project and is distributing the 30-second
+land cover dataset of Asia from the author. Furthermore, the paper identifies necessary efforts
+for successful future continental/global land cover mapping.

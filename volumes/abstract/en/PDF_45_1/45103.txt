@@ -1,0 +1,16 @@
+We present a regional analysis of the tree biomass in the Rainforest/Wet Sclerophyll
+ecotone of the tropical regions of Northern Queensland, Australia. Diameter at breast
+height (DBH) was measured for all trees larger than 2 cm girth at breast height on a total of
+3237 20x20 m plots. DBH was converted to biomass using allometric equations. For all plots,
+the environmental conditions were characterized by 10 local attributes and, in addition, the
+geographic information system for the region was queried for a further 52 variables (climate,
+topographic, soil parent material). By evaluating the predictive capability of all variables using
+generalized linear and additive models, we ranked the relative importance of environmental
+controls on biomass. There is a clear signal in an overall very noisy data set. Spatial patterns of
+precipitation and to a lesser degree temperature are the strongest controls of biomass. Soil
+parent material and soil depth play a lesser role at the considered scale. Topographic soil moisture
+surrogates are the weakest predictors, possibly due to the relatively coarse pixel size of
+one ha of the digital terrain model. The best predictor is the mapped forest type (air-photo interpretation)
+indicating a large amount of systematic, unaccounted variability – most likely fire
+history or unaccounted rainfall pattern. The variability within regional climate zones is large
+compared to the variability within zones that can be readily identified from airphotos.

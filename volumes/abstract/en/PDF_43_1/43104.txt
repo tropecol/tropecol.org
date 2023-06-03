@@ -1,0 +1,6 @@
+Forest canopy density is one of the most useful parameters to consider in the
+planning and implementation of rehabilitation program. This study is development of biophysical
+analysis model for obtaining of Forest Canopy Density (FCD) using LANDSAT TM
+data image analysis. The components of FCD model are four factors; vegetation, bare soil,
+thermal and shadow. This work is implemented under the research project; PD32/93Rev2(F) of
+International Tropical Timber Organization (ITTO).

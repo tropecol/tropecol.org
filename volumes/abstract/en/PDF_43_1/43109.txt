@@ -1,0 +1,17 @@
+This paper reviews the approach and techniques of Remote Sensing (RS)
+based crop discrimination and area estimation including single date approach based on
+maximum likelihood classification as well as hierarchical/ growth profile for crop classification.
+Uniqueness of both optical and microwave data for crop identification in operational
+scenario in Rabi and Kharif season is presented. In the past two decades, studies on RS
+based crop inventory of more than 20 crops at various spatial scales (village to national) have
+been conducted. In most of the studies a sampling-based approach using optimally acquired
+single date satellite data and a supervised classifier has been used. More recently, national
+scale inventory of wheat and rice using multidate WiFS and Radarsat, Synthetic Aperture
+Radar (SAR) data have been carried out. Studies on accuracies of area inventory led to understanding
+of effects of sensor characteristics such as spatial, spectral and radiometric resolution
+and scene characteristics such as field sizes, acquisition date etc. These experiences in
+Crop Area and Production Estimation (CAPE) project over past decade suggests that remote
+sensing inventory has matured in operational use. Future perspective such as utilization of
+multi-source data and merging techniques, fraction area estimation approaches, as well as
+integration of conventional field survey information with remote sensing data towards the
+FASAL concept is also presented.

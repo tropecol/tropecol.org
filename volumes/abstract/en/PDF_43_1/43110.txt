@@ -1,0 +1,12 @@
+Traditionally biomass estimation involved harvesting of the trees. As the forest
+cover decreased, there became the need for non-destructive methods for volume/biomass estimation.
+Methods were developed to relate the biomass with girth, height etc. Component-wise
+biomass equations were developed, which were used to estimate biomass at the plot level. In
+last couple of years satellite remote sensing has been successfully used for biomass and productivity
+estimation. The unique characteristic of plants is displayed by its reflectance in red and
+infrared region of electro-magnetic radiation. These have relationship with the biophysical parameters
+of plants. Therefore, process based models were developed to make use of the remotely
+sensed data available on monthly basis for estimation of Net Primary Productivity
+(NPP). Production efficiency model was used to estimate the NPP at the patch level, which
+takes Intercepted Photosynthetically Active Radiation (IPAR) and photosynthetic efficiency as
+input parameters to estimate NPP.

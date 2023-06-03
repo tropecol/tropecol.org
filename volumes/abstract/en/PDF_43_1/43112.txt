@@ -1,0 +1,26 @@
+Biodiversity is dynamic in nature; species and their populations are in a constant
+state of evolutionary change. The changes, as well as human-induced modifications of
+biodiversity, must be thought against the background of its 3.5 billion years history. The discrepancy
+between field knowledge and predictions; the applicability of the model to continual
+situations, where ecosystem fragmentation and consequent area loss is the important consideration
+and various methods for predicting biodiversity distribution have been discussed here.
+The utility of landscape ecological principles for biodiversity characterization has been described.
+Use of satellite remote sensing, geographic information system (GIS) and global positioning
+system (GPS) techniques for assessing the disturbed and biologically-rich sites by many
+researchers have been highlighted. Satellite-derived vegetation map and various landscape
+ecological parameters (viz., patch shape, patch size, number of patches, porosity, fragmentation,
+interspersion and juxtaposition) were analyzed by various authors to characterize various
+habitat ecosystems. The present approach of prioritizing the biodiversity rich sites has the advantage
+of integrating spatial and non-spatial information with horizontal relationships and
+thus provides clue for conservation prioritization. Under the behest of Department of Biotechnology
+and Department of Space, Government of India, landscape ecological approach is being
+used to characterize the biologically-rich areas in six regions of the country i.e., north-east India,
+western Himalaya, western Ghats, Andaman and Nicobar islands, eastern and central India.
+A case study for the state of Arunachal Pradesh has been discussed in detail. The potential
+applications of the database prepared as a result of the inventory have been described. This
+method of biodiversity characterization has the following advantages over the traditional
+method of inventory e.g. (i) has an ecological basis since many ecological components are considered
+(ii) all the components have precise positional (locational) representation on earth surface.
+In the days of pilferage of bioresources and in the backdrop of intellectual property right
+issues, a quick and effective geospatial technique for characterizing biodiversity at landscape
+level will go a long way in conservation and judicious management of bioresources.

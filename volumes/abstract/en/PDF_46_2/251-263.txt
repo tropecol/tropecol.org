@@ -1,0 +1,16 @@
+the present study, forest biomass mapping and estimates were carried out for a watershed
+in Garhwal Himalaya using stratified approach. IRS-1B, LISS II data of May 1994 with four spectral bands
+of spatial resolution 36.25 m were used for forest type and crown cover mapping. The forest type-cum-crown
+cover map was used as a major base for forest biomass mapping, which was then integrated with ‘crown
+cover-biomass model’. Stand biomass for each site was computed from ground inventory using mean cbh,
+density and generalized species and interspecies allometric equations. Stand biomass values were related to
+the crown cover through allometric equations. Using these equations and mean crown cover for each
+individual class, mean biomass was computed for various components. The total biomass for each forest type
+was computed by using mean values and the areal extent of the class. Of the total geographical area of 113.50
+km2, non-forested land occupied 54.1% area. Forest cover was distributed in five forest types and stratified
+into three crown cover classes ranged viz., 21–40%, 41–60% and 61–80%. About 6.8% of the forest area (i.e.
+3.1% of total area) was under 61–80% crown cover. Crown cover of >60% was encountered only in mixed
+conifer forest. The forests with >40% crown cover occupied 78.2% of forest land (i.e. 35.8% of the total area).
+Total above ground biomass in entire study area including village woodlands was 1217.94×103 t out of which
+130.31×103 t was in village wood-lands. Among different forest types maximum biomass was found in Pinus
+roxburghii forest (315.55×105 t).

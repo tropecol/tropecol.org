@@ -1,0 +1,11 @@
+Remote sensing and geographic information system (GIS) technologies have been
+used for gathering the information on physical parameters of the wildlife habitats and geospatial
+modeling for wildlife habitat evaluation. The results indicate definite advantage of remote sensing
+and GIS over conventional methods. Over time, the availability of better spatial data has
+made habitat evaluation and management more scientific and realistic. Many habitat evaluation
+procedures based on species-habitat relationship have been worked out. Basically, all models
+have tried to evaluate the carrying capacity of the wildlife habitat for a particular animal species.
+All models have to be tested for their applicability to real life situations. The accuracy of the spatial
+database is positively correlated to the model sensitivity. On cost-coverage analysis, these
+techniques have been found to be economical. This paper reviews the developments on wildlife
+habitat evaluation and management employing remote sensing and GIS tools.

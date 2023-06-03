@@ -1,0 +1,26 @@
+Disturbance plays a large role in shaping ecological communities. Soil communities
+in particular are often severely affected by disturbance. However, there is little
+evidence which describes how these communities respond to disturbance. Arbuscular mycorrhizal
+(AM) fungi are an example of an important soil constituent. Past studies show
+that arbuscular mycorrhizal fungi are vulnerable to soil disturbance. This could affect terrestrial
+communities in many ways as AM fungi have been shown to be important for ecosystem
+functioning and plant community structure. We suspected that AM fungi differ in
+their response to soil disturbance due to inherent differences among AM fungal suborders
+in life history traits. Specifically, we predicted that AM fungi in the suborder
+Gigasporineae, which colonize roots primarily by spores would be more resilient to soil disturbance
+than AM fungi in the suborder Glomineae, which colonize roots primarily from
+hyphal fragments. We also predicted that the growth of AM fungal host plants would be
+greater when associated with AM fungi that were less compromised by soil disturbance.
+To test these predictions, we compared the response of AM fungal isolates from the two
+suborders to soil disturbance, relative to their response in non-disturbed controls in a
+glass-house pot experiment. AM fungal response was measured in terms of % colonization,
+root fungal biomass, soil hyphal length, soil ergosterol and spore density. Four different
+host plants were used and their growth was measured in terms of total plant biomass
+and % foliar phosphorus. Gigasporineae isolates were significantly less affected than
+Glomineae isolates by soil disturbance in terms of root colonization, soil colonization and
+spore densities. Host biomass was positively correlated with AM fungal response. In contrast,
+no difference in host foliar phosphorus content was detected between hosts grown
+with Gigasporineae versus Glomineae isolates. These results confirm that AM fungi differ
+in their response to soil disturbance. Therefore, the composition of the AM fungal community
+will determine the actual effect of soil disturbance on AM fungal-mediated plant
+growth.
